@@ -1,4 +1,4 @@
-<img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmNoZ2x1aWl5dGFnaTd2Y3B6ZndsY2hpOWYyaHFnMTNvcGRubDdweiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iZcBv0Lbys8OWNSQM9/giphy.gif" >
+<img align="right" alt="coding" width="400" border-radius = 50% object-fit = cover src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmNoZ2x1aWl5dGFnaTd2Y3B6ZndsY2hpOWYyaHFnMTNvcGRubDdweiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iZcBv0Lbys8OWNSQM9/giphy.gif" >
 # 💫 About Me:
 I’m a B.Tech student specializing in Artificial Intelligence & Data Science, passionate about building practical solutions using Python, C++, and data-driven approaches.<br>I enjoy exploring machine learning, data analysis, and problem-solving, and I’m currently working on academic and mini-projects to strengthen my real-world skills.<br>Always curious, always learning, and aiming to grow as an engineer one project at a time.
 
